@@ -1,0 +1,5 @@
+classes= 5
+train = data/cube_train.txt
+valid = data/cube_test.txt
+names = data/cube.names
+backup = backup
